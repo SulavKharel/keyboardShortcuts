@@ -84,7 +84,7 @@
 
 `command + f ` : find
 
-`command + shift + f ` : massive find
+`command + shift + f ` : find in files
 
 `command + k, command + b ` : toggle file bar
 
