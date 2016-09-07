@@ -68,7 +68,7 @@
 `command + d ` : select word(s)
 
 
-`command + k while selecting words ` : don't select word 
+`command + k while selecting words ` : don't select word
 
 `command + ctrl + g ` : select all of words
 
@@ -78,7 +78,10 @@
 
 
 
-`command + p ` : open file
+`command + p ` : open file or go to anything with options:
+  * `@` jump to symbols
+  * `#` search within file
+  * `:` go to a line number
 
 `command + shift + p ` : set syntax (and many many other things)
 
